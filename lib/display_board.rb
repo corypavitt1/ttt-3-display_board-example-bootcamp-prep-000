@@ -4,3 +4,4 @@ def display_board
 end
  row1 = []
  row1 = [' ',' ', ' ']
+ puts row1
