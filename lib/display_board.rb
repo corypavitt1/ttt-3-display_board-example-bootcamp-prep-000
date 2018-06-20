@@ -3,5 +3,5 @@ def display_board
   puts "Welcome to Tic Tac Toe"
   array = []
   array =[' ','|'," "]
-  return array
+  return array[0,1,2]
 end
